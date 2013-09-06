@@ -2,3 +2,7 @@ Hello!
 
 This file is for testing purposes.  Feel free to make changes and commit them.
 
+Let's add some more text....
+Line 1
+Line 2
+Line 3
